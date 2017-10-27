@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * *binary_tree_node - creates a binary tree mode
+ * binary_tree_node - creates a binary tree mode
  * @parent: pointer to the parent nde to create
  * @value: value to put in new code
  * Return: pointer to the new node or NULL on failure
